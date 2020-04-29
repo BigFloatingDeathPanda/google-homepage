@@ -2,9 +2,9 @@ This project is designed to clone the look of the Google homepage.  It is not de
 
 To do: Get spacing on buttons correct.
 
-To do: Get font on header-footer correct.
+To do: Get font on header-footer correct. (DONE)
 
-To do: Make button look correct.
+To do: Make button look correct. (DONE)
 
 
 Then I'll probably call it good.
